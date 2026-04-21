@@ -1,6 +1,9 @@
 # Rock Paper Scissors Game
 
 A simple web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript.
+<img width="1089" height="912" alt="Screenshot 2026-04-21 233754" src="https://github.com/user-attachments/assets/f18f1013-76dc-45a0-86c2-a34f8ea9cca6" />
+
+
 
 ## Features
 
